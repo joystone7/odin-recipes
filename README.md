@@ -1,2 +1,4 @@
 # odin-recipes
 This project is about creating my own website containing recipes to my three favorite local dishes using html files created on my github repository. It was a really fun journey as I learnt how to build my first ever personal website right from my terminal and with vscode as my text editor. I was able to use certain github basic skills such as creating a repository, staging and committing html files as well as writing commit messages. In addition, i was able to use vscode to build my website using basic tags such as strong, em, ordered and unordered list, etc. Kodus to TOP for this exciting opportunity!
+
+Live Site: https://joystone7.github.io/odin-recipes/
