@@ -1,6 +1,7 @@
 body{
     font-family: Verdana, "Geneva", Tahoma, sans-serif;
-    background-color: lightcoral
+    width: 1000px;
+    margin: 0 auto;
 }
 
 #header {
